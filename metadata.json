@@ -1,0 +1,6 @@
+{
+  "name": "SentinelX — AI Multi-Modal Digital Trust Platform",
+  "description": "Unified multimodal digital trust and scam prevention platform analyzing text, phishing URLs, QR codes, synthetic audio, and deepfakes with explainable risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
